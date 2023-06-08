@@ -1,7 +1,6 @@
 var namespace_audio_bubbles =
 [
     [ "Editor", "namespace_audio_bubbles_1_1_editor.html", "namespace_audio_bubbles_1_1_editor" ],
-    [ "Examples", "namespace_audio_bubbles_1_1_examples.html", "namespace_audio_bubbles_1_1_examples" ],
     [ "AudioBubble", "class_audio_bubbles_1_1_audio_bubble.html", "class_audio_bubbles_1_1_audio_bubble" ],
     [ "AudioBubbleProfile", "class_audio_bubbles_1_1_audio_bubble_profile.html", "class_audio_bubbles_1_1_audio_bubble_profile" ],
     [ "AudioGeometry", "class_audio_bubbles_1_1_audio_geometry.html", "class_audio_bubbles_1_1_audio_geometry" ],

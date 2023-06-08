@@ -7,10 +7,6 @@ var annotated_dup =
         [ "BaseEditor", "class_audio_bubbles_1_1_editor_1_1_base_editor.html", null ],
         [ "ConditionalHidePropertyDrawer", "class_audio_bubbles_1_1_editor_1_1_conditional_hide_property_drawer.html", null ]
       ] ],
-      [ "Examples", "namespace_audio_bubbles_1_1_examples.html", [
-        [ "BasicMovement", "class_audio_bubbles_1_1_examples_1_1_basic_movement.html", null ],
-        [ "Player", "class_audio_bubbles_1_1_examples_1_1_player.html", null ]
-      ] ],
       [ "AudioBubble", "class_audio_bubbles_1_1_audio_bubble.html", "class_audio_bubbles_1_1_audio_bubble" ],
       [ "AudioBubbleProfile", "class_audio_bubbles_1_1_audio_bubble_profile.html", "class_audio_bubbles_1_1_audio_bubble_profile" ],
       [ "AudioGeometry", "class_audio_bubbles_1_1_audio_geometry.html", "class_audio_bubbles_1_1_audio_geometry" ],

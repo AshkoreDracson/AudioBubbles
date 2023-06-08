@@ -1,7 +1,5 @@
 var class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings =
 [
-    [ "AudioOcclusion", "class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings.html#a831b8084c00b6bf0598aef4a51caddf1", null ],
-    [ "AudioOcclusionPreset", "class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings.html#a2601c89323e37bdbf183d3bb49969cb4", null ],
     [ "MaxRadius", "class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings.html#a633575344726d496aee43a4b749c6592", null ],
     [ "MinRadius", "class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings.html#ad81e1c41d48072a6481e4bdf20457b72", null ],
     [ "Offset", "class_audio_bubbles_1_1_audio_bubble_profile_1_1_descriptor_spatialization_settings.html#ac225d61cbe61fb82c44d0e49094ca102", null ],

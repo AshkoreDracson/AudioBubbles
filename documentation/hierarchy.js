@@ -13,9 +13,7 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "AudioBubbles.AudioBubble", "class_audio_bubbles_1_1_audio_bubble.html", null ],
       [ "AudioBubbles.AudioGeometry", "class_audio_bubbles_1_1_audio_geometry.html", null ],
-      [ "AudioBubbles.AudioOcclusion", "class_audio_bubbles_1_1_audio_occlusion.html", null ],
-      [ "AudioBubbles.Examples.BasicMovement", "class_audio_bubbles_1_1_examples_1_1_basic_movement.html", null ],
-      [ "AudioBubbles.Examples.Player", "class_audio_bubbles_1_1_examples_1_1_player.html", null ]
+      [ "AudioBubbles.AudioOcclusion", "class_audio_bubbles_1_1_audio_occlusion.html", null ]
     ] ],
     [ "PropertyAttribute", null, [
       [ "AudioBubbles.AudioRangeAttribute", "class_audio_bubbles_1_1_audio_range_attribute.html", null ],
